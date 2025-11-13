@@ -1,1 +1,1 @@
-Fixed scrolling: Calculate width from parent container (PluginPanel), ensure proper size for scrolling
+Added toggle for 'Set Target' right-click option - Enable/disable in Utilities section
