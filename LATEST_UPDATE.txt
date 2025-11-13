@@ -1,1 +1,1 @@
-Collapsible sections: Click section headers to fold/expand loadouts and utilities. Fixed scrolling and size issues.
+Fixed scrolling: Simplified size calculations, let BoxLayout handle sizing naturally
