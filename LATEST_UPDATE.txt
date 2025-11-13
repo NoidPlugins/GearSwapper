@@ -1,1 +1,1 @@
-Fixed scrolling: Remove/add content panel from layout when toggling, match working CollapsiblePanel pattern exactly
+Fixed scrolling: Calculate width from viewport, ensure proper size calculation for scrolling
