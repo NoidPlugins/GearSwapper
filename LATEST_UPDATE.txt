@@ -1,1 +1,1 @@
-Fixed scrolling: Match working CollapsiblePanel pattern exactly, use fixed header width
+Fixed scrolling: Calculate width from parent container (PluginPanel), ensure proper size for scrolling
