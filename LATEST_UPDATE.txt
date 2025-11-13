@@ -1,1 +1,1 @@
-Fixed scrolling: Set header to fixed width 250px to prevent collapse
+Fixed scrolling: Keep content in layout, toggle visibility only, match working CollapsiblePanel exactly
