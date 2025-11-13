@@ -1,2 +1,2 @@
-Safe preset loading with confirmation dialog, improved save preset button with hard disk icon, and enhanced update notifications
+Collapsible sections: Fold/expand loadouts and utilities sections for better organization
 
