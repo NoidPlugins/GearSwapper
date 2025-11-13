@@ -1,1 +1,1 @@
-Fixed scrolling: Set header preferred width to prevent collapse, simplify size calculations
+Fixed scrolling: Set header to fixed width 250px to prevent collapse
