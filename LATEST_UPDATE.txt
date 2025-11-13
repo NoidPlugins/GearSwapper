@@ -1,1 +1,1 @@
-Moved 'Set Target' toggle to general config section
+Fixed JPS algorithm: Added instance support for LMS and other instances
