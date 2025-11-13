@@ -1,2 +1,1 @@
-Collapsible sections: Click section headers to fold/expand loadouts and utilities
-
+Collapsible sections: Click section headers to fold/expand loadouts and utilities. Fixed scrolling and size issues.
