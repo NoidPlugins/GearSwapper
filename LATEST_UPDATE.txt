@@ -1,1 +1,1 @@
-Fixed scrolling: Simplified size calculations, let BoxLayout handle sizing naturally
+Fixed scrolling: Use BorderLayout for CollapsibleSection, set maximum size after adding components
