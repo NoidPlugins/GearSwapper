@@ -1,2 +1,2 @@
-Collapsible sections: Fold/expand loadouts and utilities sections for better organization
+Collapsible sections: Click section headers to fold/expand loadouts and utilities
 
