@@ -1,2 +1,2 @@
-Safe preset button: Load presets with confirmation dialog
+Safe preset loading with confirmation dialog, improved save preset button with hard disk icon, and enhanced update notifications
 
