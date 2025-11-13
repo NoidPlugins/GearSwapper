@@ -1,1 +1,1 @@
-Fixed scrolling: Keep content in layout, toggle visibility only, match working CollapsiblePanel exactly
+Fixed scrolling: Match working CollapsiblePanel pattern exactly, use fixed header width
