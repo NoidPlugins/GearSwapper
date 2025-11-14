@@ -1,1 +1,1 @@
-Fixed JPS algorithm: Added instance support for LMS and other instances
+Add serial key system with 6-hour cache and server validation
